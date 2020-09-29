@@ -1,5 +1,5 @@
 # JODC Contributor Magazine
-Welcome to JODC! The Contributor Magazine is meant to start you with contributions to JODC. Whether you're a first-timer or a experienced developer participate in HACKTOBERFEST 2020, contribute to this repo add yourself to the magazine. 
+Welcome to JODC! The Contributor Magazine is meant to start you with contributions to JODC. Whether you're a first-timer or a experienced developer participate in [HACKTOBERFEST 2020](https://hacktoberfest.digitalocean.com/), contribute to this repo add yourself to the magazine. 
 
 
 ## HOW TO CONTRIBUTE
