@@ -20,7 +20,6 @@ Deployed on: [https://jodc-magazine.netlify.app/](https://jodc-magazine.netlify.
   *  Add and commit your changes with a commit message
   *  push to the remote repo using  ``git push origin your_branch_name``
   *   Make a pull request and wait for your contribution to be merged
-  *   See your changes go live at [HacktoberMagazine](https://hacktobermagazine.netlify.com/)
 
 ## ISSUES
 You can begin with resolving any [open issues](https://github.com/JIITODC/Contributor-magazine/issues). For Hacktoberfest 🎊🎊
