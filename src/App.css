@@ -1,6 +1,6 @@
 p{
   font-weight: lighter;
-  margin: 30px auto 50px;
+  margin: -90px auto 50px;
   font-size: x-large;
 }
 
@@ -11,7 +11,9 @@ a{
 }
 
 .JODC_logo {
-  margin-top: 30px;
+  margin-top: -30px;
+  height: 400px;
+  z-index: -1;
 }
 
 .container {
@@ -39,6 +41,12 @@ input[type="text"]{
 }
 
 @media only screen and (max-width: 600px) {
+  .JODC_logo {
+    height: 200px;
+  }
+  p{
+    margin: -30px auto 50px;
+  }
   .container {
     flex-direction: column;
   }

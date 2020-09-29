@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './jodc.png';
+import logo from './jodc.svg';
 import Card from './Card';
 import contributors from './Contributors';
 import './App.css';
@@ -40,7 +40,7 @@ function search() {
 function App() {
   return (
     <div className="App">
-      <img src={logo} className="JODC_logo" alt="logo" />
+        <img src={logo} className="JODC_logo" alt="logo" />
       <p>Nice to see you <i className="em em-wave" aria-label="WAVE"></i> , participate in <a target="_blank" href="https://hacktoberfest.digitalocean.com/" rel="noopener noreferrer">Hacktoberfest 2020</a> and add yourself here <i className="em em-star-struck" aria-label="GRINNING FACE WITH STAR EYES"></i></p>
       <input type="text" id="searchInput" placeholder="Search for people here!" onInput={search} />
       <div className="container">
