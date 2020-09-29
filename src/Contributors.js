@@ -13,4 +13,11 @@ export default [
     facebook: "",
     twitter: "aayushmau5",
   },
+  {
+  	name: "Aaryan Porwal",
+  	github_username: "aaryanporwal",
+  	title: "Explorer",
+  	facebook: "",
+  	twitter: "aaryan7476",
+  }
 ];
