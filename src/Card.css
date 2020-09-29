@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,300);
+
+ .card {
+	 margin: 40px 40px;
+	 width: 300px;
+	 background: #fff;
+	 border-radius: 3px;
+	 overflow: hidden;
+	 box-shadow: 10px 10px 15px 0 rgba(0, 0, 0, 0.3);
+	 transition: .3s;
+}
+ .card:hover{
+	box-shadow: 0px 0px 30px #999;
+	transform: scale(1.03,1.03);
+ }
+ .profile {
+	 text-align: center;
+}
+ .profile .image {
+	 position: relative;
+	 width: 100px;
+	 height: 100px;
+	 margin: 38px auto 30px auto;
+}
+ .profile .image .circle-1, .profile .image .circle-2 {
+	 position: absolute;
+	 box-sizing: border-box;
+	 width: 106px;
+	 height: 106px;
+	 top: -3px;
+	 left: -3px;
+	 border-width: 1px;
+	 border-style: solid;
+	 border-color: #434545;
+	 border-radius: 50%;
+	 transition: all 1.5s ease-in-out;
+}
+ .profile .image .circle-2 {
+	 width: 112px;
+	 height: 112px;
+	 top: -6px;
+	 left: -6px;
+	 border-color: #434545;
+}
+ .profile .image img {
+	 display: block;
+	 border-radius: 50%;
+	 background: #f5e8df;
+}
+ .card:hover {
+	 cursor: pointer;
+}
+ .profile .name {
+	 font-size: 18px;
+	 font-weight: 600;
+	 margin-top: 23px;
+	 color: #000;
+}
+ .profile .job {
+	 margin: 10px auto;
+	 font-size: 18px;
+	 line-height: 15px;
+	 color: #434545;
+}
+ .social {
+	 margin: 20px;
+	 display: flex;
+	 justify-content: space-around;
+}
+ .social a {
+	 color: #000;
+}
+.social a:hover {
+	 color: #555;
+}
+ .stats {
+	 display: flex;
+	 margin: 1px 1px 1px 1px;
+}
+ .stats .box {
+	 box-sizing: border-box;
+	 width: 120px;
+	 height: 99px;
+	 color: #fff;
+	 background: #000;
+	 text-align: center;
+	 padding-top: 28px;
+	 transition: all 0.4s ease-in-out;
+}
+ .stats .box:hover {
+	 background: #333;
+	 cursor: pointer;
+}
+ .stats span {
+	 display: block;
+}
+ .stats .value {
+	 font-size: 20px;
+	 font-weight: 600;
+}
+ .stats .parameter {
+	 font-size: 13px;
+}
+@media only screen and (max-width: 600px) {
+  .center {
+    margin: 20px auto;
+  }
+}
+ 
