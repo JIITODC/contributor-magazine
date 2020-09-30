@@ -20,4 +20,12 @@ export default [
   	facebook: "",
   	twitter: "aaryan7476",
   }
+  {
+        name: "Isha Mehta",
+        github_username: "isha-24",
+        title: "Explorer",
+        facebook: "",
+        twitter: "",
+  }
+
 ];
