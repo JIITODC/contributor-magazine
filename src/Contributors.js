@@ -20,4 +20,9 @@ export default [
   	facebook: "",
   	twitter: "aaryan7476",
   }
+{
+	name : "Harsh Upadhyay
+	github_username : "pyGitHub7"
+	title : "Web Developer"
+}
 ];
