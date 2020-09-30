@@ -19,5 +19,12 @@ export default [
   	title: "Explorer",
   	facebook: "",
   	twitter: "aaryan7476",
-  }
+  },
+  {
+  	name: "Suryashankar Das",
+  	github_username: "iamsdas",
+  	title: "ML Enthusiast",
+  	facebook: "",
+  	twitter: "ssd_2002",
+  },
 ];
