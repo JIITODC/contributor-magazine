@@ -20,4 +20,5 @@ export default [
   	facebook: "",
   	twitter: "aaryan7476",
   }
+{name :"Ayush negi",}
 ];
