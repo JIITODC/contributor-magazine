@@ -27,4 +27,11 @@ export default [
   	facebook: "",
   	twitter: "ssd_2002",
   },
+  {
+  	name: "Aachman Mittal",
+  	github_username: "AarKiMos",
+  	title: "OS and Aviation Enthusiast",
+  	facebook: "",
+  	twitter: "AarKiMos",
+  },
 ];
