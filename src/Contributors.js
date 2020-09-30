@@ -19,11 +19,11 @@ export default [
   	title: "Explorer",
   	facebook: "",
   	twitter: "aaryan7476",
-  }
+  },
    {
    	name: "Sabreen Parveen",
         github_username: "sabreen-parveen",
-        title: "Explorer",
+        title: "",
         facebook: "",
         twitter: "",
   }
