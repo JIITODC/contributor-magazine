@@ -20,4 +20,9 @@ export default [
   	facebook: "",
   	twitter: "aaryan7476",
   }
-];
+{ name : "Aditya Pratap Singh Chauhan",
+   github_username: "ADI1000b",
+    title: "file",
+    facebook: "",
+    twitter: "",
+   ];
