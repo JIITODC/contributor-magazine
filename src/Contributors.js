@@ -20,4 +20,12 @@ export default [
   	facebook: "",
   	twitter: "aaryan7476",
   }
+   {
+   	name: "Sabreen Parveen",
+        github_username: "sabreen-parveen",
+        title: "Explorer",
+        facebook: "",
+        twitter: "",
+  }
+
 ];
