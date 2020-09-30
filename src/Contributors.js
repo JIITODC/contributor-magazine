@@ -19,5 +19,10 @@ export default [
   	title: "Explorer",
   	facebook: "",
   	twitter: "aaryan7476",
-  }
+{name :"Sarthak Jaiswal"
+github_username:"Sarthak-19"
+title:"Web App Developer"
+}
+
 ];
+
