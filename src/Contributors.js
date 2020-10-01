@@ -21,6 +21,13 @@ export default [
   	twitter: "aaryan7476",
   },
   {
+    name: "Prashant Mishra",
+        github_username: "PrimalPimmy",
+        title:"Web Developer",
+        facebook: "",
+        twitter: "PrimalPimmy",
+  },
+  {
 	name: "Harsh Upadhyay",
 	github_username: "pyGitHub7",
 	title: "Web Developer",
