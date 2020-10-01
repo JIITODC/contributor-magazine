@@ -27,6 +27,13 @@ export default [
     facebook: "",
     twitter: "",
   },
+  { 
+    name : "Dharmveer Singh",
+    github_username: "moriarity9211",
+    title: "file",
+    facebook: "https://www.facebook.com/profile.php?id=100011387355705",
+    twitter: "",
+  },
   {
    	name: "Sabreen Parveen",
     github_username: "sabreen-parveen",
