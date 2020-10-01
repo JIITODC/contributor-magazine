@@ -19,7 +19,7 @@ export default [
   	title: "Explorer",
   	facebook: "",
   	twitter: "aaryan7476",
-  }
+  },
   {name : "Ayush negi",
    github_username: "ayuushhh",
    title: "web_dev",
