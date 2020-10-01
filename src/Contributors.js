@@ -89,5 +89,12 @@ export default [
         title: "",
         facebook: "",
         twitter: "",
+  },
+  {
+        name: "Dhruv Raj Kashyap",
+        github_username: "dhruvrkashyap",
+        title: "",
+        facebook: "",
+        twitter: "",
   }
 ];
