@@ -7,7 +7,7 @@ Deployed on: [https://jodc-magazine.netlify.app/](https://jodc-magazine.netlify.
   * Fork the repo
   * Clone the repo
   * Checkout a new branch using  `git checkout -b new_branch_name`
-  * Open the `src/Contributor.js` and add your name like this:
+  * Open the `src/Contributors.js` and add your name like this:
    ```javascript
     {
         name: "Your Name",
