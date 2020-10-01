@@ -75,5 +75,12 @@ export default [
   	title: "OS and Aviation Enthusiast",
   	facebook: "",
   	twitter: "AarKiMos",
+  },
+  {
+        name: "Isha R Mehta",
+        github_username: "isha-24",
+        title: "",
+        facebook: "",
+        twitter: "",
   }
 ];
