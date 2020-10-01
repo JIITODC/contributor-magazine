@@ -104,4 +104,12 @@ export default [
         facebook: "",
         twitter: "@AKSHAT_SRI_1",
   }
+  {
+        name: "Isha Mehta",
+        github_username: "isha-24",
+        title: "Explorer",
+        facebook: "",
+        twitter: "",
+  }
+
 ];
