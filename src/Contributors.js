@@ -21,6 +21,13 @@ export default [
   	twitter: "aaryan7476",
   },
   {
+	name: "Harsh Upadhyay",
+	github_username: "pyGitHub7",
+	title: "Web Developer",
+	facebook: "",
+	twitter: "",
+  },
+  {
   	name: "Suryashankar Das",
   	github_username: "iamsdas",
   	title: "ML Enthusiast",
@@ -34,5 +41,19 @@ export default [
     facebook: "",
     twitter: "im_Ishan24",
   },
+   {
+  	name: "Saksham Madan",
+  	github_username: "Saksham1920",
+  	title: "",
+  	facebook: "",
+  	twitter: "",
+  },
+  {
+  	name: "Aachman Mittal",
+  	github_username: "AarKiMos",
+  	title: "OS and Aviation Enthusiast",
+  	facebook: "",
+  	twitter: "AarKiMos",
+  }
 ];
 
