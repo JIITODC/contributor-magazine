@@ -41,4 +41,11 @@ export default [
   	facebook: "",
   	twitter: "",
   },
+  {
+  	name: "Aachman Mittal",
+  	github_username: "AarKiMos",
+  	title: "OS and Aviation Enthusiast",
+  	facebook: "",
+  	twitter: "AarKiMos",
+  }
 ];
