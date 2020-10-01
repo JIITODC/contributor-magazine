@@ -104,4 +104,12 @@ export default [
         facebook: "",
         twitter: "@AKSHAT_SRI_1",
   }
+
+  {
+	name: "Ahmar",
+	github_username: "AhmarZaidi",
+	title :"Blank",
+	facebook: "",
+	twitter: "Ahmar",
+  }
 ];
