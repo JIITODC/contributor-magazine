@@ -27,4 +27,18 @@ export default [
 	facebook: "",
 	twitter: "",
   },
+  {
+  	name: "Suryashankar Das",
+  	github_username: "iamsdas",
+  	title: "ML Enthusiast",
+  	facebook: "",
+  	twitter: "ssd_2002",
+  },
+   {
+  	name: "Saksham Madan",
+  	github_username: "Saksham1920",
+  	title: "",
+  	facebook: "",
+  	twitter: "",
+  },
 ];
