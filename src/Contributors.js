@@ -34,6 +34,13 @@ export default [
   	facebook: "",
   	twitter: "ssd_2002",
   },
+  {
+    name: "Ishan",
+    github_username: "Ishan-Saini",
+    title: "Web Developer",
+    facebook: "",
+    twitter: "im_Ishan24",
+  },
    {
   	name: "Saksham Madan",
   	github_username: "Saksham1920",
@@ -49,3 +56,4 @@ export default [
   	twitter: "AarKiMos",
   }
 ];
+
