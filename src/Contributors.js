@@ -96,5 +96,12 @@ export default [
         title: "",
         facebook: "",
         twitter: "",
+  },
+  {
+        name: "AKSHAT SRIVASTAVA",
+        github_username: "KISLAYA-SRI",
+        title: "Noob",
+        facebook: "",
+        twitter: "@AKSHAT_SRI_1",
   }
 ];
