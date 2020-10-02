@@ -103,5 +103,12 @@ export default [
         title: "Noob",
         facebook: "",
         twitter: "@AKSHAT_SRI_1",
+  },
+    {
+        name: "Eshan Tripathi",
+        github_username: "eshanheretic",
+        title: "Web Developer",
+        facebook: "",
+        twitter: "",
   }
 ];
