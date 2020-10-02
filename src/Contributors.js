@@ -110,5 +110,12 @@ export default [
 	title: "Artist in making",
 	facebook: "",
 	twitter: "",
-  }
+  },
+  {
+     name: "Kratika Garg",
+     github_username: "kratikaatgithub",
+     title: "",
+     facebook: "",
+     twitter: "",
+ }
 ];
