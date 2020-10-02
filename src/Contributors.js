@@ -110,5 +110,12 @@ export default [
         title: "Web Developer",
         facebook: "",
         twitter: "",
+
+  {
+	name: "Aarav Porwal",
+	github_username: "aaravporwal",
+	title: "Artist in making",
+	facebook: "",
+	twitter: "",
   }
 ];
