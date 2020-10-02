@@ -27,7 +27,6 @@ export default [
    facebook: "freakoayush",
    twitter: "",
   },
-=======
   { 
     name : "Aditya Pratap Singh Chauhan",
     github_username: "ADI1000b",
@@ -43,7 +42,7 @@ export default [
     twitter: "",
   },
   {
-   	name: "Sabreen Parveen",
+    name: "Sabreen Parveen",
     github_username: "sabreen-parveen",
     title: "",
     facebook: "",
