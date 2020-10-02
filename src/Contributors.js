@@ -104,6 +104,13 @@ export default [
         facebook: "",
         twitter: "@AKSHAT_SRI_1",
   },
+    {
+        name: "Eshan Tripathi",
+        github_username: "eshanheretic",
+        title: "Web Developer",
+        facebook: "",
+        twitter: "",
+    },
   {
 	name: "Aarav Porwal",
 	github_username: "aaravporwal",
